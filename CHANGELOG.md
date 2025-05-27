@@ -1,5 +1,11 @@
 # mangoose-migrate
 
+## 0.1.8
+
+### Patch Changes
+
+- 2d813ff: fix: remove space from className
+
 ## 0.1.7
 
 ### Patch Changes
